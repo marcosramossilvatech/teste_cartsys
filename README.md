@@ -1,5 +1,5 @@
 # teste_cartsys
-Projeto criado para processo de desenvolvedor C
+Projeto criado para processo de desenvolvedor C#
 Segue desafio:
 
 
