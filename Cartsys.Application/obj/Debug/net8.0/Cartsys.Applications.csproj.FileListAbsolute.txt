@@ -1,0 +1,15 @@
+E:\C#\Cartsys\Cartsys.Application\bin\Debug\net8.0\Cartsys.Applications.deps.json
+E:\C#\Cartsys\Cartsys.Application\bin\Debug\net8.0\Cartsys.Applications.dll
+E:\C#\Cartsys\Cartsys.Application\bin\Debug\net8.0\Cartsys.Applications.pdb
+E:\C#\Cartsys\Cartsys.Application\bin\Debug\net8.0\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Application\bin\Debug\net8.0\Cartsys.Domain.pdb
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.csproj.AssemblyReference.cache
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.AssemblyInfoInputs.cache
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.AssemblyInfo.cs
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.csproj.CoreCompileInputs.cache
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys..BD63D460.Up2Date
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.dll
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\refint\Cartsys.Applications.dll
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\Cartsys.Applications.pdb
+E:\C#\Cartsys\Cartsys.Application\obj\Debug\net8.0\ref\Cartsys.Applications.dll

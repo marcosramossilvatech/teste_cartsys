@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Cartsys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|e:\\c#\\cartsys\\cartsys.application\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|solutionrelative:cartsys.application\\services\\pessoaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|E:\\C#\\Cartsys\\cartsys.infrastructure\\repositories\\databaseinitializerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|solutionrelative:cartsys.infrastructure\\repositories\\databaseinitializerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrsil\\.nuget\\packages\\epplus\\7.1.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|E:\\C#\\Cartsys\\cartsys.application\\cartsys.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|solutionrelative:cartsys.application\\cartsys.applications.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|E:\\C#\\Cartsys\\cartsys.application\\services\\databaseinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|solutionrelative:cartsys.application\\services\\databaseinitializerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|E:\\C#\\Cartsys\\cartsys.infrastructure\\cartsys.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|solutionrelative:cartsys.infrastructure\\cartsys.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|E:\\C#\\Cartsys\\cartsys.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|solutionrelative:cartsys.infrastructure\\repositories\\pessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmcrudpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmcrudpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmcrudpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmcrudpessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\interfaces\\ipessoarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\interfaces\\idatabaseinitializerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\interfaces\\idatabaseinitializerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\validators\\pessoavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\validators\\pessoavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\cartsys.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\cartsys.view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\entities\\etipofiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\entities\\etipofiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|E:\\C#\\Cartsys\\cartsys.application\\services\\cepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38651EA3-9FF8-42D7-863B-37DB97E3FF08}|Cartsys.Application\\Cartsys.Applications.csproj|solutionrelative:cartsys.application\\services\\cepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\entities\\cepdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\entities\\cepdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|E:\\C#\\Cartsys\\cartsys.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E9C0A8-12C3-43FA-B424-59BB7A9F6961}|Cartsys.Domain\\Cartsys.Domain.csproj|solutionrelative:cartsys.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|E:\\C#\\Cartsys\\cartsys.infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A9A8E3-D03A-49DD-81A8-4F445D97740A}|Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj|solutionrelative:cartsys.infrastructure\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\frmcrudpessoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\frmcrudpessoa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|E:\\C#\\Cartsys\\cartsys.view\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF3FFC39-BA4F-43F2-B005-5A1CDFBF90A7}|Cartsys.View\\Cartsys.View.csproj|solutionrelative:cartsys.view\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPessoa.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmPessoa.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmPessoa.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmPessoa.cs [Design]",
+              "RelativeToolTip": "Cartsys.View\\frmPessoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:10:56.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseInitializerService.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\DatabaseInitializerService.cs",
+              "RelativeDocumentMoniker": "Cartsys.Application\\Services\\DatabaseInitializerService.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\DatabaseInitializerService.cs",
+              "RelativeToolTip": "Cartsys.Application\\Services\\DatabaseInitializerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:13:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPessoa.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmPessoa.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmPessoa.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmPessoa.cs",
+              "RelativeToolTip": "Cartsys.View\\frmPessoa.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAEAjwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:11:00.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaService.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\PessoaService.cs",
+              "RelativeDocumentMoniker": "Cartsys.Application\\Services\\PessoaService.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\PessoaService.cs",
+              "RelativeToolTip": "Cartsys.Application\\Services\\PessoaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:51:37.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPessoaRepository.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Interfaces\\IPessoaRepository.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Interfaces\\IPessoaRepository.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Interfaces\\IPessoaRepository.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Interfaces\\IPessoaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:42:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\Program.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\Program.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\Program.cs",
+              "RelativeToolTip": "Cartsys.View\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:01:51.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmLogin.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmLogin.cs",
+              "RelativeToolTip": "Cartsys.View\\frmLogin.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAzwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:36:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseInitializerRepository.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Repositories\\DatabaseInitializerRepository.cs",
+              "RelativeDocumentMoniker": "Cartsys.Infrastructure\\Repositories\\DatabaseInitializerRepository.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Repositories\\DatabaseInitializerRepository.cs",
+              "RelativeToolTip": "Cartsys.Infrastructure\\Repositories\\DatabaseInitializerRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwDkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:09:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\mrsil\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "ToolTip": "C:\\Users\\mrsil\\.nuget\\packages\\epplus\\7.1.3\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-03T15:07:16.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cartsys.Applications.csproj",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Application\\Cartsys.Applications.csproj",
+              "RelativeDocumentMoniker": "Cartsys.Application\\Cartsys.Applications.csproj",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Application\\Cartsys.Applications.csproj",
+              "RelativeToolTip": "Cartsys.Application\\Cartsys.Applications.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T15:06:47.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCrudPessoa.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmCrudPessoa.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.cs [Design]",
+              "RelativeToolTip": "Cartsys.View\\frmCrudPessoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:55:07.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCrudPessoa.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmCrudPessoa.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.cs",
+              "RelativeToolTip": "Cartsys.View\\frmCrudPessoa.cs",
+              "ViewState": "AQIAADoAAAAAzMzMzMwJwGMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:55:10.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cartsys.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj",
+              "RelativeToolTip": "Cartsys.Infrastructure\\Cartsys.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T14:39:40.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PessoaRepository.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeDocumentMoniker": "Cartsys.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "RelativeToolTip": "Cartsys.Infrastructure\\Repositories\\PessoaRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:16:14.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmLogin.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Cartsys.View\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:26:06.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDatabaseInitializerRepository.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Interfaces\\IDatabaseInitializerRepository.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Interfaces\\IDatabaseInitializerRepository.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Interfaces\\IDatabaseInitializerRepository.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Interfaces\\IDatabaseInitializerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T13:07:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PessoaValidator.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Validators\\PessoaValidator.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Validators\\PessoaValidator.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Validators\\PessoaValidator.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Validators\\PessoaValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:54:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Entities\\Pessoa.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Entities\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:17:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmPrincipal.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmPrincipal.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmPrincipal.cs [Design]",
+              "RelativeToolTip": "Cartsys.View\\frmPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:35:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ETipoFiltro.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\ETipoFiltro.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Entities\\ETipoFiltro.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\ETipoFiltro.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Entities\\ETipoFiltro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:37:51.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmPrincipal.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmPrincipal.cs",
+              "RelativeToolTip": "Cartsys.View\\frmPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:01:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CepDados.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\CepDados.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Entities\\CepDados.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\CepDados.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Entities\\CepDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:37:32.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CepService.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\CepService.cs",
+              "RelativeDocumentMoniker": "Cartsys.Application\\Services\\CepService.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Application\\Services\\CepService.cs",
+              "RelativeToolTip": "Cartsys.Application\\Services\\CepService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:36:37.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cartsys.View.csproj",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\Cartsys.View.csproj",
+              "RelativeDocumentMoniker": "Cartsys.View\\Cartsys.View.csproj",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\Cartsys.View.csproj",
+              "RelativeToolTip": "Cartsys.View\\Cartsys.View.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T04:34:11.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Database.cs",
+              "RelativeDocumentMoniker": "Cartsys.Infrastructure\\Database.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Infrastructure\\Database.cs",
+              "RelativeToolTip": "Cartsys.Infrastructure\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:38:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Cartsys.Domain\\Entities\\Entity.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Cartsys.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:47:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmCrudPessoa.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.Designer.cs",
+              "RelativeDocumentMoniker": "Cartsys.View\\frmCrudPessoa.Designer.cs",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\frmCrudPessoa.Designer.cs",
+              "RelativeToolTip": "Cartsys.View\\frmCrudPessoa.Designer.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:33:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.config",
+              "DocumentMoniker": "E:\\C#\\Cartsys\\Cartsys.View\\app.config",
+              "RelativeDocumentMoniker": "Cartsys.View\\app.config",
+              "ToolTip": "E:\\C#\\Cartsys\\Cartsys.View\\app.config",
+              "RelativeToolTip": "Cartsys.View\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-03T04:35:42.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E:\C#\Cartsys\Cartsys.Domain\bin\Debug\net8.0\Cartsys.Domain.deps.json
+E:\C#\Cartsys\Cartsys.Domain\bin\Debug\net8.0\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Domain\bin\Debug\net8.0\Cartsys.Domain.pdb
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.AssemblyInfoInputs.cache
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.AssemblyInfo.cs
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.csproj.CoreCompileInputs.cache
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\refint\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.pdb
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\ref\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Domain\obj\Debug\net8.0\Cartsys.Domain.csproj.AssemblyReference.cache

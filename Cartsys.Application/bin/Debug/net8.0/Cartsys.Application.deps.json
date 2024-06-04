@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cartsys.Application/1.0.0": {
+        "dependencies": {
+          "Cartsys.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Cartsys.Application.dll": {}
+        }
+      },
+      "Cartsys.Domain/1.0.0": {
+        "runtime": {
+          "Cartsys.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cartsys.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cartsys.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

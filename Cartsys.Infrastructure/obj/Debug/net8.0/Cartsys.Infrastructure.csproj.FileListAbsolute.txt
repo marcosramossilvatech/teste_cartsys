@@ -1,0 +1,15 @@
+E:\C#\Cartsys\Cartsys.Infrastructure\bin\Debug\net8.0\Cartsys.Infrastructure.deps.json
+E:\C#\Cartsys\Cartsys.Infrastructure\bin\Debug\net8.0\Cartsys.Infrastructure.dll
+E:\C#\Cartsys\Cartsys.Infrastructure\bin\Debug\net8.0\Cartsys.Infrastructure.pdb
+E:\C#\Cartsys\Cartsys.Infrastructure\bin\Debug\net8.0\Cartsys.Domain.dll
+E:\C#\Cartsys\Cartsys.Infrastructure\bin\Debug\net8.0\Cartsys.Domain.pdb
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.csproj.AssemblyReference.cache
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.AssemblyInfoInputs.cache
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.AssemblyInfo.cs
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys..CCBE5586.Up2Date
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.dll
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\refint\Cartsys.Infrastructure.dll
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\Cartsys.Infrastructure.pdb
+E:\C#\Cartsys\Cartsys.Infrastructure\obj\Debug\net8.0\ref\Cartsys.Infrastructure.dll
